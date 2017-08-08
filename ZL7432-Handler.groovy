@@ -3,7 +3,7 @@
  *	ZL 7432US Dual Relay Device Type
  *  
  *	Initial Author: Unknown
- *  Maintainer: physhster
+ *  	Maintainer: physhster
  *	Date: 2017-08-07
  */
  
